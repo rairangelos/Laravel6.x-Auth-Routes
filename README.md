@@ -30,8 +30,8 @@
 - Route::post('email/resend', 'Auth\VerificationController@resend')->name('verification.resend');
 
 
-##This content aim to give assist to the people who need the routes splitted!
-##I hope you enjoy!
+## This content aim to give assist to the people who need the routes splitted!
+# I hope you enjoy!
 
 ## Contributing
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
